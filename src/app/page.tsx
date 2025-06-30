@@ -24,10 +24,10 @@ export default function Home() {
             className="w-40"
           />
         </div>
-        <div className=" w-full h-full  text-white flex flex-col justify-center items-center uppercase text-center gap-10 text-lg">
-          <p>A Resiliência Não é <br /> ser forte o tempo todo. <br /> É saber levantar-se <br /> com propósito.</p>
-          <p className="text-5xl md:text-9xl ">A M I</p>
-          <p>· Um Novo Website Brevemente ·</p>
+        <div className=" w-full h-full  text-white flex flex-col justify-center items-center text-center gap-10 text-2xl">
+          <p className="font-brayles">A resiliência não é  ser forte o tempo todo. <br /> É saber levantar-se com propósito.</p>
+          <p className="text-5xl md:text-9xl font-publica uppercase">AMI</p>
+          <p className="font-brayles">Prepare-se para uma nova experiência online!</p>
         </div>
         <div className="text-white text-lg w-full flex gap-4 items-center justify-start pt-4">
           <a target="_blank" href={'https://www.facebook.com/share/16SHLs8tHr/'}><FaFacebook /></a>
