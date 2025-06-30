@@ -24,7 +24,7 @@ export default function Home() {
             className="w-40"
           />
         </div>
-        <div className=" w-full h-full lg:border-8 lg:border-black lg:shadow-2xl text-white flex flex-col justify-center items-center uppercase text-center gap-10 text-lg">
+        <div className=" w-full h-full  text-white flex flex-col justify-center items-center uppercase text-center gap-10 text-lg">
           <p>A Resiliência Não é <br /> ser forte o tempo todo. <br /> É saber levantar-se <br /> com propósito.</p>
           <p className="text-5xl md:text-9xl ">A M I</p>
           <p>· Um Novo Website Brevemente ·</p>
