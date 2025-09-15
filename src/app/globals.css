@@ -1,17 +1,16 @@
 @import "tailwindcss";
 
 @font-face {
-  font-family: Brayles;
-  src: url('../assets/fonts/Brayles.ttf') format("truetype");
-}
-
-@font-face {
   font-family: PublicaPlay;
   src: url('../assets/fonts/publicaplay-bold.otf') format("opentype");
 }
 
+@font-face {
+  font-family: RobotoCondensed-SemiBold;
+  src: url('../assets/fonts/RobotoCondensedSemiBold.ttf') format("opentype");
+}
+
 @theme inline {
-  --font-brayles: Brayles;
   --font-publica: PublicaPlay;
-  --font-sans: Brayles, sans-serif;
+  --font-roboto-semi-bold: RobotoCondensed-SemiBold;
 }
