@@ -34,8 +34,8 @@ export default function Home() {
         </div>
         <div className="text-white text-lg w-full flex gap-4 items-center justify-start pt-4">
           <a target="_blank" href={'https://www.facebook.com/share/16SHLs8tHr/'}><FaFacebook /></a>
-          <a target="_blank" href={'https://www.instagram.com/ami.ao/'}><FaInstagramSquare /></a>
-          <a target="_blank" href={'https://www.linkedin.com/in/iracelma-almeida-8880a132a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'}><FaLinkedinIn /></a>
+          <a target="_blank" href={'https://www.instagram.com/ami.angola/'}><FaInstagramSquare /></a>
+          <a target="_blank" href={'https://www.linkedin.com/in/assossia%C3%A7%C3%A3o-de-mulheres-instru%C3%ADdas-a0b514387/'}><FaLinkedinIn /></a>
         </div>
       </div>
     </div>
